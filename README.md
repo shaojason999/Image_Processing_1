@@ -1,13 +1,13 @@
 ## 環境準備
-python: 3.7.9
-pip install opencv-contrib-python==3.4.2.17
-pip install Matplotlib==3.1.1
-pip install pyqt5==5.15.1
-pip install pyqt5-tools
-pip install pyinstaller
+python: 3.7.9  
+pip install opencv-contrib-python==3.4.2.17  
+pip install Matplotlib==3.1.1  
+pip install pyqt5==5.15.1  
+pip install pyqt5-tools  
+pip install pyinstaller  
 
-python 路徑: C:\Users\shaojason999\AppData\Local\Programs\Python\Python37\Scripts\
-pyqt5 路徑: C:\Users\shaojason999\AppData\Local\Programs\Python\Python37\Lib\site-packages\pyqt5_tools\Qt\bin\designer.exe
+python 路徑: C:\Users\shaojason999\AppData\Local\Programs\Python\Python37\Scripts\  
+pyqt5 路徑: C:\Users\shaojason999\AppData\Local\Programs\Python\Python37\Lib\site-packages\pyqt5_tools\Qt\bin\designer.exe  
 
 ## 程式碼操作
 1. 程式碼修改:
